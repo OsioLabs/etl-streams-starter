@@ -1,6 +1,6 @@
 # Use Streams to Extract, Transform, and Load CSV Data
 
-This is the stater code for the HeyNode tutorial about transforming CSV data with streams.
+This is the starter code for the HeyNode tutorial about transforming CSV data with streams.
 
 ## Setup
 
