@@ -7,7 +7,7 @@ This is the starter code for the HeyNode tutorial about transforming CSV data wi
 Clone the repo and install the dependencies to get started:
 
 ```shell
-git clone https://github.com/jonchurch/etl-streams-starter.git
+git clone https://github.com/osiolabs/etl-streams-starter.git
 cd etl-streams-starter
 npm i
 ```
